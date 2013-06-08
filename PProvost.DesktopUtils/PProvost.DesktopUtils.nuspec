@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PProvost.DesktopUtils</id>
+    <title>Peter Provost's Windows Desktop Utilities All-in-one Package</title>
+    <version>0.1</version>
+    <authors>Peter Provost</authors>
+    <owners>Peter Provost</owners>
+    <summary>My set of utilities and tools for a new generic Windows machine.</summary>
+		<description>These are the basic utilities and tools that I install on all new Windows machines or VMs.
+
+			It does not include any development tools. Those are packaged in PProvost.DevTools.
+		
+			This package was inspired by and modeled on Alan Stevens' Windows Utilities package (http://chocolatey.org/packages/alanstevens.utils)
+
+			This package only contains dependencies to other packages. Please review each dependency to understand the license and usage instructions.
+		</description>
+    <projectUrl>https://github.com/PProvost/NugetPackages</projectUrl>
+    <tags>utilities tools</tags>
+    <dependencies>
+			<dependency id="7zip.install" />
+			<dependency id="autohotkey_l" />
+      <dependency id="ccleaner" />
+			<dependency id="SkyDrive" />
+			<dependency id="sysinternals" />
+			<dependency id="windirstat" />
+    </dependencies>
+  </metadata>
+ </package>
