@@ -21,6 +21,7 @@
 			<dependency id="7zip.install" />
 			<dependency id="autohotkey_l" />
       <dependency id="ccleaner" />
+      <dependency id="putty" />
 			<dependency id="SkyDrive" />
 			<dependency id="sysinternals" />
 			<dependency id="windirstat" />

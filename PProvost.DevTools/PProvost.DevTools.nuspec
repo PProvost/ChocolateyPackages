@@ -22,7 +22,6 @@
 			<dependency id="ilspy" />
 			<dependency id="kickassvim" />
 			<dependency id="p4merge" />
-      <dependency id="putty" />
     </dependencies>
   </metadata>
  </package>
