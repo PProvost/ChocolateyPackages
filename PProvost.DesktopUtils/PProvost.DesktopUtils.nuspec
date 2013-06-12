@@ -19,10 +19,13 @@
     <tags>utilities tools</tags>
     <dependencies>
 			<dependency id="7zip.install" />
+			<dependency id="adobereader" />
 			<dependency id="autohotkey_l" />
       <dependency id="ccleaner" />
+			<dependency id="greenshot" />
       <dependency id="putty" />
 			<dependency id="SkyDrive" />
+			<dependency id="Skype" />
 			<dependency id="sysinternals" />
 			<dependency id="windirstat" />
     </dependencies>
