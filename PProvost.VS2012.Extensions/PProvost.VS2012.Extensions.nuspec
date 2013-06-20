@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PProvost.VS2012.Extensions</id>
+    <version>2012.06.20</version>
+		<title>This package contains the VS2012 Extensions that I regularly install.</title>
+    <authors>Peter Provost</authors>
+    <owners>Peter Provost</owners>
+    <!-- <licenseUrl></licenseUrl>-->
+    <!-- <projectUrl></projectUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>These are the Visual Studio 2012 extensions I install by default.
+      PowerCommands
+      VsVim
+      Web Essentials
+      ColorThemeEditor
+      VsCommands
+      Tfs-GoOffline
+			NUnit Test Adapter
+			xUnit.net Test Adapter
+			Chutzpah Test Adapter (QUnit and Jasmine)
+    </description>
+    <summary>Peter Provost's favorite Visual Studio 2012 extensions</summary>
+    <tags>Visual Studio 2012 Extensions</tags>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+  </metadata>
+</package>
