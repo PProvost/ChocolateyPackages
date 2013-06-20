@@ -35,6 +35,7 @@ try {
 	install-vsix http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05/file/82992/3/ColorThemeEditor.vsix ColorThemeEditor.vsix
 	install-vsix http://visualstudiogallery.msdn.microsoft.com/a83505c6-77b3-44a6-b53b-73d77cba84c8/file/74740/18/SquaredInfinity.VSCommands.VS11.vsix VsCommands.vsix
 	install-vsix http://visualstudiogallery.msdn.microsoft.com/6e54271c-2c4e-4911-a1b4-a65a588ae138/file/85910/4/TfsGoOffline.vsix Tfs-GoOffline
+	install-vsix http://visualstudiogallery.msdn.microsoft.com/B08B0375-139E-41D7-AF9B-FAEE50F68392/file/5131/7/SnippetDesigner.vsix SnippetDesigner.vsix
 
 	install-vsix http://visualstudiogallery.msdn.microsoft.com/6ab922d0-21c0-4f06-ab5f-4ecd1fe7175d/file/66177/10/NUnitTestAdapter.vsix NUnitTestAdapter.vsix
 	install-vsix http://visualstudiogallery.msdn.microsoft.com/463c5987-f82b-46c8-a97e-b1cde42b9099/file/66837/8/xunit.runner.visualstudio.vsix xunit.runner.visualstudio.vsix

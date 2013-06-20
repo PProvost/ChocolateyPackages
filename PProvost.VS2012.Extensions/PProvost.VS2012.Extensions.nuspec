@@ -16,6 +16,7 @@
       ColorThemeEditor
       VsCommands
       Tfs-GoOffline
+			Snippet Designer
 			NUnit Test Adapter
 			xUnit.net Test Adapter
 			Chutzpah Test Adapter (QUnit and Jasmine)
