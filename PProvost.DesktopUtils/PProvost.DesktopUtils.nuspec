@@ -15,7 +15,7 @@
 
 			This package only contains dependencies to other packages. Please review each dependency to understand the license and usage instructions.
 		</description>
-    <projectUrl>https://github.com/PProvost/NugetPackages</projectUrl>
+    <projectUrl>https://github.com/PProvost/ChocolateyPackages</projectUrl>
     <tags>utilities tools</tags>
     <dependencies>
 			<dependency id="7zip.install" />
