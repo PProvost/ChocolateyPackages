@@ -3,11 +3,11 @@
   <metadata>
     <id>PProvost.DevTools</id>
     <title>Peter Provost's Windows Dev Tools All-in-one Package</title>
-    <version>2013.06.13</version>
+    <version>2013.09.09</version>
     <authors>Peter Provost</authors>
     <owners>Peter Provost</owners>
     <summary>My set of utilities and tools for a new development machine.</summary>
-		<description>These are the basic utilities and tools that I install on a new development machine or VM.
+    <description>These are the basic utilities and tools that I install on a new development machine or VM.
 		
 			This package was inspired by and modeled on Alan Stevens' Windows Utilities package (http://chocolatey.org/packages/alanstevens.utils)
 
@@ -16,12 +16,13 @@
     <projectUrl>https://github.com/PProvost/ChocolateyPackages</projectUrl>
     <tags>utilities tools</tags>
     <dependencies>
-			<dependency id="curl" />
-			<dependency id="fiddler" />
-			<dependency id="git.install" />
-			<dependency id="ilspy" />
-			<dependency id="kickassvim" />
-			<dependency id="p4merge" />
+      <dependency id="curl" />
+      <dependency id="fiddler" />
+      <dependency id="git.install" />
+      <dependency id="ilspy" />
+      <dependency id="kickassvim" />
+      <dependency id="p4merge" />
+      <dependency id="git-credential-winstore" />
     </dependencies>
   </metadata>
- </package>
+</package>

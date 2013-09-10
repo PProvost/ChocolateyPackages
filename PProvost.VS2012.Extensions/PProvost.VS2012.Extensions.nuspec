@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>PProvost.VS2012.Extensions</id>
-    <version>2012.06.20</version>
-		<title>This package contains the VS2012 Extensions that I regularly install.</title>
+    <version>2013.09.09</version>
+    <title>This package contains the VS2012 Extensions that I regularly install.</title>
     <authors>Peter Provost</authors>
     <owners>Peter Provost</owners>
     <!-- <licenseUrl></licenseUrl>-->
